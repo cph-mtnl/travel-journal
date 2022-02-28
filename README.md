@@ -1,6 +1,6 @@
 # travel-journal
 Requirements: 
-1. Design according to their Figma design
+1. Design according to their [Figma design](https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0%3A1)
 2. From create-react-app
 3. Data Driven
     1. All data stored in a 'data.js' file
