@@ -87,3 +87,8 @@ hr {
   flex-direction: column;
   padding-top: 32px;
 }
+
+.travel-grid {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
